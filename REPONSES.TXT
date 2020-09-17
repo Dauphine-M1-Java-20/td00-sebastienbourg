@@ -1,0 +1,19 @@
+BOURG Sébastien
+
+Exercice 1
+4. Apache Maven 3.6.3
+5. groupId : Represente l'identifiant unique de l'organisation ou le groupe qui crée le project. Le groupId est l'une des clés identifiers du projet.
+artifactId : Cet element indique le nom unique de l'artefact primaire généré par ce project. L'artifact primaire est un fichier JAR. Les artifacts secondaires utilisent aussi l'artifactId pour composer leur nom final.
+8. Le class path est le chemin qui spécifie où se trouve les classes utilisés par le programme java
+13. Cette propriété sert à définir la version de java avec les classes seront executées (pour assurer la compatibilité)
+
+Exercice 2
+1. no main manifest attribute, in target/td00-1.0-SNAPSHOT.jar
+
+Exercice 3 
+3. C'est un raccourci pour écrire System.out.println(); directement, de même que syso
+4. C'est un raccourci pour écrire l'overide de la méthode toString() 
+5. C'est un raccourci pour générer une main methode
+6. On nous propose de générer la méthode getToto() qui est le getter de l'attribut toto de la classe
+On nous propose de générer la méthode setToto() qui est le setter de l'attribut toto de la classe
+7. Cela permet de refactor un nom de variable ou de classe. Tous les fichiers java du projet seront parcourut pour la renommer aux endroits ou elle apparait.
