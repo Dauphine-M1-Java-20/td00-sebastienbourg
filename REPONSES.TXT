@@ -1,4 +1,4 @@
-BOURG Sébastien
+BOURG Sébastien v2
 
 Exercice 1
 4. Apache Maven 3.6.3
