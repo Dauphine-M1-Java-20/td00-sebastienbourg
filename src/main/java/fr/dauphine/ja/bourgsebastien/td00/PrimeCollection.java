@@ -11,6 +11,11 @@ public class PrimeCollection {
 		numbers = new ArrayList<>();
 	}
 
+	/**
+	 * Methode adding random number (n) beetween 0 and m
+	 * @param n : number of random numbers to generate 
+	 * @param m : borne maximal du nb a generer
+	 */
 	public void initRandom(int n, int m) {
 		for (int i = 0; i <= n; i++) {
 			Random r = new Random();
@@ -18,6 +23,11 @@ public class PrimeCollection {
 		}
 	}
 
+	/**
+	 * Method testing if an int is prime or not
+	 * @param p
+	 * @return true if the number is prime, false if it's not or if the number is negative
+	 */
 	public boolean isPrime(int p) {
 		if(p <= 0) return false;
 		
