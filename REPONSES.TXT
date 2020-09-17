@@ -30,3 +30,14 @@ Exercice 2
 6. Le fichier contient les deux changements apportés dans les répertoires différents
 sur gitk on observe qu'un merge a été réalisé
 7. C'est ce que j'ai fait au début, j'ai observé un conflits lors du merge. il faut alors choisir quelle version garder.
+
+
+Exercice 3
+2. On observe que les tests se passent correctement à l'aide d'un bandeau s'ouvrant sur la gauche.
+En modifiant le assertTrue, on observe que le test échoue alors, ce qui est logique car la méthode assertTrue vérifie que l'expression à l'intérieur des parenthèses renvoie vrai
+
+
+
+
+
+
