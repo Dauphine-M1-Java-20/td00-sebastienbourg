@@ -1,5 +1,5 @@
-BOURG Sébastien v2
-v3
+BOURG Sébastien
+
 Exercice 1
 4. Apache Maven 3.6.3
 5. groupId : Represente l'identifiant unique de l'organisation ou le groupe qui crée le project. Le groupId est l'une des clés identifiers du projet.
@@ -17,3 +17,16 @@ Exercice 3
 6. On nous propose de générer la méthode getToto() qui est le getter de l'attribut toto de la classe
 On nous propose de générer la méthode setToto() qui est le setter de l'attribut toto de la classe
 7. Cela permet de refactor un nom de variable ou de classe. Tous les fichiers java du projet seront parcourut pour la renommer aux endroits ou elle apparait.
+
+
+td bis git
+Exercice 1 
+5. On observe les différences entre le commit précédent et les modifications apportées.
+8. b83068c8d6a8e8c87f3a0b823ba14864a7f2ff99
+
+Exercice 2
+3. sur gitk on voit l'indication remotes/origin/master relié à master montrant le dépot à distance
+5. une erreur apparait indiquant que l'on n'a pas intégré les changements présents sur le depot distant. il faut executer un git pull
+6. Le fichier contient les deux changements apportés dans les répertoires différents
+sur gitk on observe qu'un merge a été réalisé
+7. C'est ce que j'ai fait au début, j'ai observé un conflits lors du merge. il faut alors choisir quelle version garder.
