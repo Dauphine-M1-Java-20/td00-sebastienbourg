@@ -1,5 +1,5 @@
-BOURG Sébastien v3
-
+BOURG Sébastien v2
+v3
 Exercice 1
 4. Apache Maven 3.6.3
 5. groupId : Represente l'identifiant unique de l'organisation ou le groupe qui crée le project. Le groupId est l'une des clés identifiers du projet.
