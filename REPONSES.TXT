@@ -17,6 +17,7 @@ Exercice 3
 6. On nous propose de générer la méthode getToto() qui est le getter de l'attribut toto de la classe
 On nous propose de générer la méthode setToto() qui est le setter de l'attribut toto de la classe
 7. Cela permet de refactor un nom de variable ou de classe. Tous les fichiers java du projet seront parcourut pour la renommer aux endroits ou elle apparait.
+8. Cela permet d'afficher le code source de la classe java.lang.string
 
 
 td bis git
